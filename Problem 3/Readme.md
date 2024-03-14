@@ -4,7 +4,7 @@ Write a program that reads the student information from a tab separated values (
 The program performs the following tasks:
 
     Read the file name of the tsv file from the user.
-    Open the tsv file and read the student information.
+    Open the tsv file and read the student information..
     Compute the average exam score of each student.
     Assign a letter grade to each student based on the average exam score in the following scale:
         A: 90 =< x

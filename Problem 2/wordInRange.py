@@ -3,7 +3,7 @@ Name: Wyatt Fulton
 Lab Time: Thur 2:00 PM
 '''
 
-def wordInRange():
+#def wordInRange():
     inp_file = input()
     start_line = input()
     stop_bound = input()
