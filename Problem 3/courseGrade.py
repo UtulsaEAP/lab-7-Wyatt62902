@@ -49,7 +49,7 @@ def courseGrade():
             midt1_avg = float(midt1_sum / num_lines)
             midt2_avg = float(midt2_sum / num_lines)
             fin_avg = float(fin_sum / num_lines)
-            write_file.write(f"Averages: midterm1{midt1_avg:.2f}, midterm2{midt2_avg:.2f}, final{fin_avg:.2f}\n")
+            write_file.write(f"Averages: midterm1 {midt1_avg:.2f}, midterm2 {midt2_avg:.2f}, final {fin_avg:.2f}\n")
                 
 
     return
